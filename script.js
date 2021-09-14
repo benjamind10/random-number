@@ -1,5 +1,7 @@
 import DATA from './data.js';
 
+//Function to eliminate duplicate data
+
 let result = [];
 let data = DATA;
 
